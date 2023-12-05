@@ -2,8 +2,14 @@ function App() {
   return (
     <div className="App">
       <footer>
-        This project was coded by
-        <a href="" target="_blank">Myo Pa Pa Kyaw</a> and it is <a href="" target="_blank">open-source.</a>
+        <div>
+          This project was coded by
+          <a href="https://grand-moxie-36c236.netlify.app/"> Myo Pa Pa Kyaw </a>
+          and it is 
+          <a href="https://github.com/Cyntra-22/shecodesreact_project">
+             open-source.
+          </a>
+        </div>
       </footer>
     </div>
   );
